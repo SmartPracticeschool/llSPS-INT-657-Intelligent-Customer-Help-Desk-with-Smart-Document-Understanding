@@ -15,4 +15,4 @@ In Watson Discovery I have used the ecobee3_userguide.
 Node-Red Dashboard link:https://node-red-crpqo.eu-gb.mybluemix.net/ui/#!/0?socketid=5oSZfgkXGpL-9MPaAAAN
 
 
-I have uploaded a demo video of this project in my youtube channel.https://youtu.be/TuNQMvb4Zps
+I have uploaded a demo video of this project in my youtube channel.https://youtu.be/ZM1GTB_-cSY
